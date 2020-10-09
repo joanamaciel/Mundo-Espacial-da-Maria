@@ -9,7 +9,12 @@ Linha: *** ou ---
 
 
 #Lorem 
+
+sit amet, **consectetur** adipisicing _elit_.
+***
 ##ipsum 
+~~Eum~~ minus quia, cumque nobis quaerat, accusantium ducimus molestias, 
+
 ###dolor 
 ---
-sit amet, **consectetur** adipisicing _elit_. ~~Eum~~ minus quia, cumque nobis quaerat, accusantium ducimus molestias, debitis soluta impedit laudantium. Ut at ab impedit. Quasi debitis vel omnis animi!
+ debitis soluta impedit laudantium. Ut at ab impedit. Quasi debitis vel omnis animi!
